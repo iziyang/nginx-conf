@@ -11,6 +11,9 @@ Nginx 系列文章的配置文件，持续更新
 
 [Nginx 处理 HTTP 请求的 11 个阶段](https://iziyang.github.io/2020/04/12/5-nginx/)
 
+[Nginx 的过滤模块是干啥用的？](https://iziyang.github.io/2020/05/26/6-nginx/)
+
+
 ---
 
 欢迎关注我的公众号，持续分享干货
